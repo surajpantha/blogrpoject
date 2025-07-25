@@ -4,7 +4,7 @@ import Container from "./container/container";
 import Logo from "./Logo";
 import Button from "./Button";
 import Input from "./Input";
-import RTE from "./RTE.JSX";
+import RTE from "./RTE.jsx";
 import Signup from "./Signup";
 import Login from "./Login";
 import PostForm from "./postform/PostForm";
